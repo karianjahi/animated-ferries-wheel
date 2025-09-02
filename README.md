@@ -87,7 +87,7 @@ A visually engaging **Ferris wheel animation** built entirely with HTML and CSS.
 
 - Cabins rotate individually using the `@keyframes cabins` animation:
 
-```
+```css
     @keyframes cabins {
         0% { transform: rotate(0deg); }
         25% { background-color: yellow; }
