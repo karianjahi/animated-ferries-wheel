@@ -76,7 +76,7 @@ A visually engaging **Ferris wheel animation** built entirely with HTML and CSS.
 
 - Lines are rotated in 60° increments to form the spokes:
 
-```
+```css
     .line:nth-of-type(2) { transform: rotate(60deg); }
     .line:nth-of-type(3) { transform: rotate(120deg); }
 ```
