@@ -41,12 +41,13 @@ A visually engaging **Ferris wheel animation** built entirely with HTML and CSS.
 
 ## Project Structure
 ```
-    animated-ferries-wheel/
-            │
-            ├── index.html # Main HTML file containing the wheel and cabins
-            └── styles.css # CSS file containing all styling and animations
-            └── .gitignore
-            └── README.md
+    animation-ferries-wheel/
+                    ├── images/
+                    │   └── animation-wheel.gif
+                    ├── .gitignore
+                    ├── index.html
+                    ├── styles.css
+                    └── README.md
 ```
 
 ---
